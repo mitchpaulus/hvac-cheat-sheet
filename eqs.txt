@@ -1,1 +1,12 @@
 1 {BTU / { hr-ft-°F  }} = 1.7307347 {W / { m-°K }}
+3.4121416 {BTU / hr} = 1 W
+1 in wg = 249 Pa
+1 m = 3.2808399 ft
+1 {BTU / { hr ft^2 °F }} = 5.6782633 {W / { m^2 °K }}
+1 {{ hr ft^2 °F } / BTU} = 0.1761 {{ m^2 °K } / W}
+P V = n R.u T
+P V = m R.s T
+P v = R.s T
+P = rho R.s T
+m = n M
+R.s = R.u / M
